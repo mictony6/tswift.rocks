@@ -38,7 +38,7 @@ div.content:first-child {
 	align-self: center;
 }
 div.content article{
-	border: 1px solid #2b2726;
+	border: 1px ;
 	padding:5px;
 	margin: 4px;
 	background-color:#e73c29;
