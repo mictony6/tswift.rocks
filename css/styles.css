@@ -158,3 +158,14 @@ div.videos img{
 	text-align:right;
 
 }
+
+.announcements {
+	text-align: left;
+	font-size: 18px;
+	border: 2px;
+	background-color: black;
+	padding : 20px;
+	margin-bottom: 15px;
+	box-shadow: 0 5px 10px white;
+
+}
